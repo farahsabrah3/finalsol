@@ -1,6 +1,6 @@
 package absCars;
 
-public class Hatchback extends Car  {
+public class Hatchback extends Car {
 
 	@Override
 	void autopilot() {
@@ -18,6 +18,5 @@ public class Hatchback extends Car  {
 		System.out.println("Hatchback parckingSensors");
 
 	}
-	
 
 }

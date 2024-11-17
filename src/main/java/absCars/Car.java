@@ -4,7 +4,6 @@ public abstract class Car {
 	float height;
 	float weight;
 	int numberOfWheels;
-	
 
 	abstract void autopilot();
 
@@ -35,6 +34,5 @@ public abstract class Car {
 	public void setNumberOfWheels(int numberOfWheels) {
 		this.numberOfWheels = numberOfWheels;
 	}
-	
 
 }
